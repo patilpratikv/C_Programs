@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539225896 source:c:\users\patil\documents\github\c_programs\c_operators\removeletters\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
