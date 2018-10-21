@@ -49,7 +49,7 @@ int main()
     charString = malloc(sizeof(char)*50);
     subString = malloc(sizeof(char)*50);
     squeezedString = malloc(sizeof(char)*50);
-    strcpy(charString, "I am here!!!");
-    strcpy(subString, "I am Pratik.");
+    strcpy(charString, "I am here too!!!");
+    strcpy(subString, "I am here.");
     squeeze(charString, subString, &squeezedString);
 }
