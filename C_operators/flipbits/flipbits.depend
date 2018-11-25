@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543092314 source:c:\users\patil\documents\github\c_programs\c_operators\flipbits\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
